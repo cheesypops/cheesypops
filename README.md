@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003.<br>📚 I'm currently learning Microservices.<br>🚀 Passionate about backend development, always eager to learn more about scalable architectures and API design.  <br>🤖 Enthusiast of Artificial Intelligence and its applications.  <br>🎯 Constantly improving my skills and exploring new technologies.</p>
+<p align="left">✨ Creating bugs since 2003.<br>📚 I'm currently learning Microservices and Payload with Next.js.<br>🚀 Passionate about backend development, always eager to learn more about scalable architectures and API design.  <br>🤖 Enthusiast of Artificial Intelligence and its applications.  <br>🎯 Constantly improving my skills and exploring new technologies.</p>
 
 ###
 
